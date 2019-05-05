@@ -5,6 +5,6 @@ end
 def array_with_two_elements
   ["billie", "foxy"]
 end
-def first_element(@taylor_swift)
-  @taylor_swift[0]
+def first_element(taylor_swift)
+  taylor_swift[0]
 end
